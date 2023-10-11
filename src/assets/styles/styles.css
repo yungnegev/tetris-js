@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#app {
+    position: relative;
+}
